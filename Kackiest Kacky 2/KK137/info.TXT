@@ -1,0 +1,8 @@
+----- Possible optimizations: -----
+maybe different strat but idk
+
+----- Inputs & Route from: -----
+Bohne
+
+----- Bruteforced by: ----- 
+Bompi

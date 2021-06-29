@@ -1,0 +1,9 @@
+----- Possible optimizations: -----
+- Nosebug to finish
+- Bump without turning the car backwards so you can keep accelerating
+
+----- Inputs & Route from: -----
+egirlTM
+
+----- Bruteforced by: ----- 
+egirlTM

@@ -1,0 +1,8 @@
+----- Possible optimizations: -----
+- Uberbug into bugfin?
+
+----- Inputs & Route from: -----
+Tres
+
+----- Bruteforced by: ----- 
+Tres

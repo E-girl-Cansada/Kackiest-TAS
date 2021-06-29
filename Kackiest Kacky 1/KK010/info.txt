@@ -1,0 +1,8 @@
+----- Possible optimizations: -----
+- Getting a jump with less vertical speed?
+
+----- Inputs & Route from: -----
+plastorex
+
+----- Bruteforced by: ----- 
+egirlTM

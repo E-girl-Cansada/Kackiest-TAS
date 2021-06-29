@@ -1,0 +1,8 @@
+----- Possible optimizations: -----
+- No idea 
+
+----- Inputs & Route from: -----
+Weregoose
+
+----- Bruteforced by: ----- 
+egirlTM

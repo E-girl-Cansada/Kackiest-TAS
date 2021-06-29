@@ -1,0 +1,8 @@
+----- Possible optimizations: -----
+- Bump into bugfin
+
+----- Inputs & Route from: -----
+basketterken8
+
+----- Bruteforced by: ----- 
+egirlTM

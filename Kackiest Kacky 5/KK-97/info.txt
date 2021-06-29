@@ -1,0 +1,9 @@
+----- Possible optimizations: -----
+- Better jump?
+
+----- Inputs & Route from: -----
+Skyrunn (Beginning)
+Tres (Ending)
+
+----- Bruteforced by: ----- 
+Tres

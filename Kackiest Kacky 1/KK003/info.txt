@@ -1,0 +1,8 @@
+----- Possible optimizations: -----
+- Getting a jump without slowing down
+
+----- Inputs & Route from: -----
+casper
+
+----- Bruteforced by: ----- 
+egirlTM

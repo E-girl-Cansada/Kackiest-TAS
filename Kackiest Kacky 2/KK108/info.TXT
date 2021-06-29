@@ -1,0 +1,9 @@
+----- Possible optimizations: -----
+-better boink (maybe nose on that boink block?)
+-faster landing
+
+----- Inputs & Route from: -----
+clon
+
+----- Bruteforced by: ----- 
+Bompi

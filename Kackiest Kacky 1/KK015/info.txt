@@ -1,0 +1,10 @@
+----- Possible optimizations: -----
+- Maybe just let it bruteforce a little more?
+- Straight line jump to the ending
+- Better beginning?
+
+----- Inputs & Route from: -----
+Acetm
+
+----- Bruteforced by: ----- 
+egirlTM

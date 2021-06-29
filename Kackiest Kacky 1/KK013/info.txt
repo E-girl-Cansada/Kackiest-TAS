@@ -1,0 +1,9 @@
+----- Possible optimizations: -----
+- Bump into bugfin
+
+----- Inputs & Route from: -----
+SkandeaR (first jump)
+EgirlTM (ending)
+
+----- Bruteforced by: ----- 
+EgirlTM

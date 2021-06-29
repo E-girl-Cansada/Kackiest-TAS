@@ -1,0 +1,9 @@
+----- Possible optimizations: -----
+- Perhaps just more precise turns
+
+----- Inputs & Route from: -----
+clonee (beginning)
+Tres (ending)
+
+----- Bruteforced by: ----- 
+Tres

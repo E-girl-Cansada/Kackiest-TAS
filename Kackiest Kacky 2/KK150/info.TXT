@@ -1,0 +1,9 @@
+----- Possible optimizations: -----
+-faster jump
+-start can be slightly faster
+
+----- Inputs & Route from: -----
+igntuL
+
+----- Bruteforced by: ----- 
+Bompi

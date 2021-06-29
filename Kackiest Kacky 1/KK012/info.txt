@@ -1,0 +1,8 @@
+----- Possible optimizations: -----
+- Beginning, would have to add manually attempt for an optimization tho
+
+----- Inputs & Route from: -----
+Laiteux
+
+----- Bruteforced by: ----- 
+EgirlTM

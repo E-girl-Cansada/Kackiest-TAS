@@ -1,0 +1,60 @@
+# Incomplete TAS, need to get the bump
+# Inputs & bruteforce by egirlTM so far
+
+0-9100 press up
+0 set speed 10
+2210-2330 press down
+5940 steer -671
+5950 steer -2374
+5960 steer -4803
+5970 steer -7354
+5980 steer -25012
+5990 steer -25685
+6000 steer -26677
+6010 steer -27581
+6020 steer -28454
+6030 steer -29817
+6040 steer -30366
+6050 steer -30832
+6060 steer -31237
+6070 steer -31694
+6080 steer -33148
+6090 steer -33892
+6100 steer -34612
+6110 steer -35190
+6120 steer -36121
+6130 steer -36695
+6150 steer -37055
+6160 steer -37226
+6170 steer -37390
+6180 steer -37535
+6200 steer -37939
+6210 steer -38384
+6220 steer -38795
+6230 steer -39070
+6240 steer -39626
+6250 steer -39832
+6260 steer -40026
+6270 steer -40206
+6280 steer -41297
+6290 steer -42197
+6300 steer -45022
+6310 steer -46562
+6330 steer -51188
+6340 steer -53717
+6350 steer -65536
+6880 steer -62931
+6890 steer -60873
+6900 steer -39275
+6910 steer -24121
+6920 steer -22819
+6930 steer -21410
+6940 steer -20403
+6950 steer -21203
+6960 steer -45446
+6970 steer -65536
+7670 steer -59202
+7680 steer -29401
+7680 steer 16716
+7690 steer 0
+7710 set speed 1

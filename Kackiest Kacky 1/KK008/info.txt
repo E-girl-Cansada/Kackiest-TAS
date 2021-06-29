@@ -1,0 +1,8 @@
+----- Possible optimizations: -----
+- Better bump somehow?
+
+----- Inputs & Route from: -----
+Gyrule_
+
+----- Bruteforced by: ----- 
+egirlTM

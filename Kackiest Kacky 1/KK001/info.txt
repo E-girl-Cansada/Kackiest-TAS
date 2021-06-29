@@ -1,0 +1,8 @@
+----- Possible optimizations: -----
+- I have no idea besides leaving bruteforcing trying to get something for some weeks
+
+----- Inputs & Route from: -----
+nellike
+
+----- Bruteforced by: ----- 
+egirlTM

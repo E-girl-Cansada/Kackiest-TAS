@@ -1,0 +1,8 @@
+----- Possible optimizations: -----
+- Change from pad to steer and optimize it
+
+----- Inputs & Route from: -----
+flex
+
+----- Bruteforced by: ----- 
+niati

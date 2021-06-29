@@ -1,0 +1,21 @@
+# Time: 7100, iterations: 9124
+0-7150 press up
+410 steer 65536
+550 steer 0
+1190 steer -65536
+1260 steer 0
+2010 steer 65536
+2370-2450 press down
+2940 steer 0
+3080 steer -65536
+3340 steer 0
+3600 steer -64627
+3670 steer -315
+4050 steer -62418
+4160 steer 0
+4170 steer 65227
+4180-4320 press down
+4310 steer -63556
+4840 steer -12584
+5580 steer -65536
+6380 steer -12640

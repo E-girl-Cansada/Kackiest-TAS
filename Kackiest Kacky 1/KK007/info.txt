@@ -1,0 +1,8 @@
+----- Possible optimizations: -----
+- Bonk at the ceiling turning the nose down with more speed for faster bugfin
+
+----- Inputs & Route from: -----
+egirlTM
+
+----- Bruteforced by: ----- 
+egirlTM

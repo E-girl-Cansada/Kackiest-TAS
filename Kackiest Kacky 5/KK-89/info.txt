@@ -1,0 +1,9 @@
+----- Possible optimizations: -----
+- Better TAS in general
+
+----- Inputs & Route from: -----
+>Dawe (First bug)
+EgirlTM (the rest)
+
+----- Bruteforced by: ----- 
+EgirlTM

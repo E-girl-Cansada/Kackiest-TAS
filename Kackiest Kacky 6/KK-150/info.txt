@@ -1,0 +1,8 @@
+----- Possible optimizations: -----
+- Better beginning
+
+----- Inputs & Route from: -----
+Migi
+
+----- Bruteforced by: ----- 
+EgirlTM

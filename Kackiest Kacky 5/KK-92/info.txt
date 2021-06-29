@@ -1,0 +1,9 @@
+----- Possible optimizations: -----
+- Smooth driving
+
+----- Inputs & Route from: -----
+Hefest (overwall)
+EgirlTM (the rest)
+
+----- Bruteforced by: ----- 
+EgirlTM

@@ -1,0 +1,7 @@
+0-5830 press up
+2130-2200 press right
+3010 steer -63556
+3080 steer -261
+3800-3890 press right
+3980-6010 press left
+4300-5650 press down

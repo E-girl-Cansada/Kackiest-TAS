@@ -1,0 +1,9 @@
+----- Possible optimizations: -----
+- 4.25 start CP?
+- Better end at the dropdown
+
+----- Inputs & Route from: -----
+zeropassi
+
+----- Bruteforced by: ----- 
+DELETE_CLUB

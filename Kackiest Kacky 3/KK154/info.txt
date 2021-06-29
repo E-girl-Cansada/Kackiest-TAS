@@ -1,0 +1,8 @@
+----- Possible optimizations: -----
+- Better bumps to avoid landing upside down
+
+----- Inputs & Route from: -----
+IgntuLs
+
+----- Bruteforced by: ----- 
+Tres

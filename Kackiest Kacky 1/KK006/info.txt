@@ -1,0 +1,8 @@
+----- Possible optimizations: -----
+- No idea
+
+----- Inputs & Route from: -----
+kameel
+
+----- Bruteforced by: ----- 
+egirlTM

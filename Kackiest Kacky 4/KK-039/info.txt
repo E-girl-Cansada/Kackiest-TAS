@@ -1,0 +1,8 @@
+----- Possible optimizations: -----
+- Faster Uberbug? Faster Nosebug?
+
+----- Inputs & Route from: -----
+Skyrunn
+
+----- Bruteforced by: ----- 
+Tres

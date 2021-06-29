@@ -1,0 +1,8 @@
+----- Possible optimizations: -----
+- jank & better ending
+
+----- Inputs & Route from: -----
+Hefest
+
+----- Bruteforced by: ----- 
+Kipje13

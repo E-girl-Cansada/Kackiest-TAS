@@ -1,0 +1,10 @@
+----- Possible optimizations: -----
+- Faster start - SD?
+- Better bounce - lower trajectory
+- Land facing forwards and wallbang to get into ring
+
+----- Inputs & Route from: -----
+Marmerladi
+
+----- Bruteforced by: ----- 
+DELETE_CLUB
