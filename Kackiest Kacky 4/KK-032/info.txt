@@ -1,0 +1,22 @@
+----- Possible optimizations: -----
+CP1:
+Lower jump/further to the right
+Nosebug on the wall
+
+CP2: 
+Jump entirely over the final CP instead of landing on it
+
+CP3:
+Lower jump/more speed
+
+Finish:
+Bounce off the pipe?
+
+----- Inputs & Route from: -----
+Hefest (CP1)
+Burd (CP2)
+Clonee (CP3)
+DELETE_CLUB (Finish)
+
+----- Bruteforced by: ----- 
+DELETE_CLUB
