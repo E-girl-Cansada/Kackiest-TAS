@@ -1,0 +1,8 @@
+----- Possible optimizations: -----
+- Better bumps?
+
+----- Inputs & Route from: -----
+IgntuL
+
+----- Bruteforced by: ----- 
+IgntuL
