@@ -1,0 +1,8 @@
+----- Possible optimizations: -----
+- OP route
+
+----- Inputs & Route from: -----
+clonee + EgirlTM
+
+----- Bruteforced by: ----- 
+EgirlTM

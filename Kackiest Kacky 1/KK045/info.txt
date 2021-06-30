@@ -1,0 +1,8 @@
+----- Possible optimizations: -----
+- Cut the ramp?
+
+----- Inputs & Route from: -----
+Edge
+
+----- Bruteforced by: ----- 
+DELETE_CLUB

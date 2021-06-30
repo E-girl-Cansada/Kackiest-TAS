@@ -1,0 +1,8 @@
+----- Possible optimizations: -----
+- Bugfin
+
+----- Inputs & Route from: -----
+clonee
+
+----- Bruteforced by: ----- 
+DELETE_CLUB
