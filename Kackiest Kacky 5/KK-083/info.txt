@@ -1,0 +1,8 @@
+----- Possible optimizations: -----
+- Better jumps to land with more speed?
+
+----- Inputs & Route from: -----
+jo la taupe
+
+----- Bruteforced by: ----- 
+Tres
