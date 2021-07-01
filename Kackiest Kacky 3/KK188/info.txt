@@ -1,0 +1,10 @@
+----- Possible optimizations: -----
+- Better driving in general
+- Perhaps possible to bug faster at the end?
+
+----- Inputs & Route from: -----
+Hefest (first 6 sec)
+EgirlTM (rest)
+
+----- Bruteforced by: ----- 
+EgirlTM
