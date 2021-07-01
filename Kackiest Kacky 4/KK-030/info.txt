@@ -1,0 +1,14 @@
+----- Possible optimizations: -----
+- Better grass SDs at start
+- Better position/angle on the inflatable landing
+- Less release when in the air for the inflatable
+- Turnaround on the inflatable earlier
+- Better speed after the statue drop
+- Better turnaround on the reverse booster?
+
+
+----- Inputs & Route from: -----
+Clonee
+
+----- Bruteforced by: ----- 
+DELETE_CLUB
