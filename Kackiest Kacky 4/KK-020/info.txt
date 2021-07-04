@@ -1,0 +1,10 @@
+----- Possible optimizations: -----
+- Better pole movement or dropdown
+- Earlier turnaround
+
+
+----- Inputs & Route from: -----
+Pitt
+
+----- Bruteforced by: ----- 
+DELETE_CLUB
