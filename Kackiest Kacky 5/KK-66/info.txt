@@ -1,0 +1,10 @@
+----- Possible optimizations: -----
+- The second drop, because it hits the wall.
+- The end. It's quite bad, it hits the wall too.
+
+----- Inputs & Route from: -----
+Tres (Uberbug)
+LinuxCat (the rest)
+
+----- Bruteforced by: ----- 
+LinuxCat
