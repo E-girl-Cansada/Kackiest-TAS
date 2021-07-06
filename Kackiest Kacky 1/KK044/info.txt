@@ -1,0 +1,8 @@
+----- Possible optimizations: -----
+- start seems a bit weird, also maybe we could do a speedslide? idk
+
+----- Inputs & Route from: -----
+gargi
+
+----- Bruteforced by: ----- 
+LinuxCat
