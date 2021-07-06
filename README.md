@@ -18,7 +18,7 @@ R: Tell it... huh.
 
 - Can I help?
 
-R: Yes, any help is very appreciated, even if only with Hardware (help with bruteforcing). To help, you can talk to me via discord ( E-girl Cansada#7777 or you can find me in TrackmaniaTAS discord https://discord.gg/SZHWqw9B6q )
+R: Yes, any help is very appreciated, even if only with Hardware (help with bruteforcing). To help, join Kackiest Kacky TASing discord server: https://discord.gg/kSk6bDCzme
 
 # Special thanks to
 
