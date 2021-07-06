@@ -4,5 +4,5 @@
 ----- Inputs & Route from: -----
 Draggy
 
------ ~~Bruteforced~~ Manually improved by: ----- 
+----- Manually improved by: ----- 
 LinuxCat
