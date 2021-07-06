@@ -1,0 +1,7 @@
+----- Possible optimizations: -----
+- Maybe the start, also the pole bounce is fast but not really straight
+
+----- Inputs & Route from: -----
+Stax_
+----- Bruteforced by: ----- 
+LinuxCat
