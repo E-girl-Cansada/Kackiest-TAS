@@ -1,0 +1,8 @@
+----- Possible optimizations: -----
+- Mayyyybeeee a lower bounce but thats unlikely.
+
+----- Inputs & Route from: -----
+Clonee
+
+----- Bruteforced by: ----- 
+LinuxCat
