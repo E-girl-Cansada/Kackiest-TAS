@@ -1,0 +1,8 @@
+----- Possible optimizations: -----
+- The pipe bounce to cp could be way faster
+
+----- Inputs & Route from: -----
+Draggy
+
+----- Manually improved by: ----- 
+LinuxCat

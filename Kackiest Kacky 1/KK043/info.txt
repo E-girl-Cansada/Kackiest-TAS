@@ -1,0 +1,8 @@
+----- Possible optimizations: -----
+- Really good inputs, i don't see an improvement here. feel free to prove me wrong
+
+----- Inputs & Route from: -----
+Clonee
+
+----- Bruteforced by: ----- 
+LinuxCat
