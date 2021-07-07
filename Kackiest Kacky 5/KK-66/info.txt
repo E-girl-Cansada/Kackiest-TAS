@@ -1,6 +1,6 @@
 ----- Possible optimizations: -----
-- The second drop, because it hits the wall.
-- The end. It's quite bad, it hits the wall too.
+- Maybe the end?
+- Possibly the first drop.
 
 ----- Inputs & Route from: -----
 Tres (Uberbug)
