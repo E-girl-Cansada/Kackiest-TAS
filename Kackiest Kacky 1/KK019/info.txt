@@ -1,8 +1,8 @@
 ----- Possible optimizations: -----
-- The pipe bounce to cp could be way faster
+- No idea, maybe bruteforce could find -0.01 on cp
 
 ----- Inputs & Route from: -----
 Draggy
 
------ Manually improved by: ----- 
+----- Manually improved + bruteforced by: ----- 
 LinuxCat
