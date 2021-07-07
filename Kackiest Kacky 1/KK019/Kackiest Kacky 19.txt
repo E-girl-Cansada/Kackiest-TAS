@@ -1,5 +1,5 @@
 0 steer 11612
-0-8670 press up
+0-8590 press up
 330 steer 11762
 340 steer 12014
 350 steer 12284
@@ -64,7 +64,7 @@
 1340 steer -11214
 1350 steer -10113
 1360 steer -8214
-1370 steer -4797
+1370 steer -1582
 1380 steer -3590
 1390 steer -2597
 1400 steer -1818
@@ -132,6 +132,7 @@
 3660 steer 50041
 3670 steer 52043
 3680 steer 65536
+4390-4510 press right
 4620 steer 62568
 4630 steer 22739
 4640 steer -6614
@@ -139,6 +140,7 @@
 4660 steer -25753
 4670 steer -42090
 4680 steer -65536
+4780-4830 press down
 4850-4890 press down
 4900-5000 press down
 4980 steer -65138
@@ -150,7 +152,7 @@
 5050 steer 12421
 5060 steer 42332
 5080 steer 65536
-5280 steer 63745
+5280 steer 61890
 5290 steer 43852
 5300 steer 41057
 5310 steer 14085
@@ -159,10 +161,5 @@
 5340 steer 4355
 5360 steer 1595
 5370 steer 0
-5880 press enter
-7140-7160 press left
-7430-7450 press left
-7720-7740 press left
-8020-8040 press left
-8260-8290 press left
-8420-8460 press left
+5800 press enter
+7100-7140 press left
