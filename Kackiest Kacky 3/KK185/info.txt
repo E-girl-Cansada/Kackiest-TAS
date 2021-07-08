@@ -1,0 +1,10 @@
+----- Possible Optimizations: -----
+- Almost everything can be improved. However this is a logn map so it's gonna take a while.
+
+----- Inputs / Route by: -----
+Base run by Skyrun.
+I drove everythin from 15000 to the end at 50% speed. 
+(+ bruteforce at the end)
+
+----- Bruteforced by: -----
+LinuxCat

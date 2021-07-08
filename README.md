@@ -22,5 +22,5 @@ R: Yes, any help is very appreciated, even if only with Hardware (help with brut
 
 # Special thanks to
 
-- DELETE_CLUB, Tres, Niati, Bompi, igntuL, clonee & Kipje13 for helping me sending some KK TASes / Ideas
+- DELETE_CLUB, Tres, Niati, Bompi, igntuL, clonee, Kipje13 & LinuxCat for helping me sending some KK TASes / Ideas
 - Donadigo for the amazing TAS tool
