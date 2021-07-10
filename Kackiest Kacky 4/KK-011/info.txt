@@ -1,0 +1,8 @@
+----- Possible Optimizations: -----
+- A lower flight and landing in nosebug
+
+----- Inputs by: -----
+Nawk 
+
+----- Bruteforced by: -----
+LinuxCat
