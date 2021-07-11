@@ -1,0 +1,11 @@
+----- Possible Optimizations: -----
+- some faster way of getting to CP3
+- better/lower jump from the ramp and bounce to finish
+
+----- Inputs / Route by: -----
+Route up to CP3 by Tres
+I edited inputs to get an insta-respawn (-0.2)
+I then manually drove a faster bounce (-0.09), and bruteforced it down from there.
+
+----- Bruteforced by: -----
+lambda
