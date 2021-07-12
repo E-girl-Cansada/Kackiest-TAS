@@ -1,0 +1,8 @@
+----- Possible optimizations: -----
+- Start is not optimum, the first jump as well.
+
+----- Inputs & Route from: -----
+Na'Guul
+
+----- Bruteforced by: ----- 
+Na'Guul

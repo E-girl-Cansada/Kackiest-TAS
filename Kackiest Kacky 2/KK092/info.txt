@@ -1,0 +1,8 @@
+----- Possible optimizations: -----
+Sector between cp1 and cp2 is slower than WR
+
+----- Inputs & Route from: -----
+Na'Guul
+
+----- Bruteforced by: ----- 
+Na'Guul

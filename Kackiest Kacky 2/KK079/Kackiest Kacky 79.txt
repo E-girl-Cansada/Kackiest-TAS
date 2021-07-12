@@ -1,0 +1,15 @@
+0-4340 press up
+3380-3510 press down
+4610-6760 press up
+5090-5130 press down
+6200 steer -16467
+6210 steer -28272
+6220 steer -37375
+6230 steer -47046
+6240 steer -59278
+6250 steer -65536
+6490 steer -60060
+6500 steer -36379
+6510 steer -13836
+6520 steer -6867
+6530 steer 0
