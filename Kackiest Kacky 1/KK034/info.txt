@@ -1,0 +1,8 @@
+----- Possible optimizations: -----
+- Maybe bf end but i doesn't seem faster.
+
+----- Inputs & Route from: -----
+Na'Guul
+
+----- Bruteforced by: ----- 
+Na'Guul

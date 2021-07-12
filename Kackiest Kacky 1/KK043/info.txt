@@ -1,8 +1,9 @@
 ----- Possible optimizations: -----
-- Really good inputs, i don't see an improvement here. feel free to prove me wrong
+- My start look bad.
+- Bug fin ?
 
 ----- Inputs & Route from: -----
-Clonee
+Na'Guul
 
 ----- Bruteforced by: ----- 
-LinuxCat
+Na'Guul

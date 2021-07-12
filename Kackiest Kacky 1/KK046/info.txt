@@ -1,0 +1,8 @@
+----- Possible optimizations: -----
+Bad Start
+
+----- Inputs & Route from: -----
+Na'Guul
+
+----- Bruteforced by: ----- 
+Na'Guul

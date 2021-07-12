@@ -1,0 +1,8 @@
+----- Possible optimizations: -----
+- Mostly for fun, there might be more optimal route normal way
+
+----- Inputs & Route from: -----
+Na'Guul
+
+----- Bruteforced by: ----- 
+Na'Guul

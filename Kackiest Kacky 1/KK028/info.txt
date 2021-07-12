@@ -1,0 +1,8 @@
+----- Possible optimizations: -----
+- There is a way to get instant clip, and finish forward.
+
+----- Inputs & Route from: -----
+Na'Guul
+
+----- Bruteforced by: ----- 
+Na'Guul

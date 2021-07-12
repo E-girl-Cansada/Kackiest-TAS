@@ -1,0 +1,8 @@
+----- Possible optimizations: -----
+There could be faster strats
+
+----- Inputs & Route from: -----
+Na'Guul
+
+----- Bruteforced by: ----- 
+Na'Guul

@@ -1,8 +1,8 @@
 ----- Possible optimizations: -----
-- Getting a jump without slowing down
+
 
 ----- Inputs & Route from: -----
-casper
+Na'Guul
 
 ----- Bruteforced by: ----- 
-egirlTM
+Na'Guul

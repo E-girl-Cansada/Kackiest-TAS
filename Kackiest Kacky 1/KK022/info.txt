@@ -1,0 +1,9 @@
+----- Possible optimizations: -----
+- Better start
+- Better pipe dance
+
+----- Inputs & Route from: -----
+Na'Guul
+
+----- Bruteforced by: ----- 
+Na'Guul

@@ -1,0 +1,8 @@
+----- Possible optimizations: -----
+There's definitely a way to direct fin uber
+
+----- Inputs & Route from: -----
+Na'Guul
+
+----- Bruteforced by: ----- 
+Na'Guul

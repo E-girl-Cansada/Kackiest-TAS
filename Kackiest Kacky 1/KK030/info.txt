@@ -1,0 +1,8 @@
+----- Possible optimizations: -----
+- Avoid landing slow down at end.
+
+----- Inputs & Route from: -----
+Na'Guul
+
+----- Bruteforced by: ----- 
+Na'Guul

@@ -1,8 +1,8 @@
 ----- Possible optimizations: -----
-- No idea 
+- Same bounce but car stays straight
 
 ----- Inputs & Route from: -----
-Weregoose
+Na'Guul
 
 ----- Bruteforced by: ----- 
-egirlTM
+Na'Guul

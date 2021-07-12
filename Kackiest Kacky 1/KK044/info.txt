@@ -1,8 +1,8 @@
 ----- Possible optimizations: -----
-- start seems a bit weird, also maybe we could do a speedslide? idk
+- maybe speed slide start
 
 ----- Inputs & Route from: -----
-gargi
+Na'Guul
 
 ----- Bruteforced by: ----- 
-LinuxCat
+Na'Guul

@@ -1,0 +1,8 @@
+----- Possible optimizations: -----
+- Not the best drift.
+
+----- Inputs & Route from: -----
+Na'Guul
+
+----- Bruteforced by: ----- 
+Na'Guul
