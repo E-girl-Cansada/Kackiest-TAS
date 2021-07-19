@@ -1,0 +1,7 @@
+----- Possible optimizations: -----
+
+----- Inputs & Route from: -----
+Na'Guul
+
+----- Bruteforced by: ----- 
+Na'Guul

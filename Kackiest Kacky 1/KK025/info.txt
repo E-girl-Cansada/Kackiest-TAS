@@ -1,0 +1,10 @@
+----- Possible optimizations: -----
+- Better barrel roll (Mine is actually slower than simo)
+- End without slowdown ?
+- Cut to end somehow ?
+
+----- Inputs & Route from: -----
+Na'Guul
+
+----- Bruteforced by: ----- 
+Na'Guul

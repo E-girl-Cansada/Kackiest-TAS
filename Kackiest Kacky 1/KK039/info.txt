@@ -1,8 +1,8 @@
 ----- Possible optimizations: -----
-- Mig is a god honestly, i don't see an opti anywhere with his inputs.
+- If someone find a better end..
 
 ----- Inputs & Route from: -----
-Migmeister
+Na'Guul
 
 ----- Bruteforced by: ----- 
-LinuxCat
+Na'Guul

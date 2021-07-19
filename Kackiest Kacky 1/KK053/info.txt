@@ -1,0 +1,8 @@
+----- Possible optimizations: -----
+- Cut with pole bounce into bug fin
+
+----- Inputs & Route from: -----
+Na'Guul
+
+----- Bruteforced by: ----- 
+Na'Guul

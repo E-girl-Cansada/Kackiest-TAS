@@ -1,0 +1,8 @@
+----- Possible optimizations: -----
+- I still think direct fin is possible somehow
+
+----- Inputs & Route from: -----
+Na'Guul
+
+----- Bruteforced by: ----- 
+Na'Guul

@@ -1,0 +1,8 @@
+----- Possible optimizations: -----
+There could be a way to uber before last cp to direct fin...
+
+----- Inputs & Route from: -----
+Na'Guul
+
+----- Bruteforced by: ----- 
+Na'Guul

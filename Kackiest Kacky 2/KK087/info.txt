@@ -1,0 +1,8 @@
+----- Possible optimizations: -----
+Highly improvable. Start is good.
+
+----- Inputs & Route from: -----
+Na'Guul
+
+----- Bruteforced by: ----- 
+Na'Guul

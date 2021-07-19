@@ -1,8 +1,7 @@
 ----- Possible optimizations: -----
-- Getting a jump with less vertical speed?
 
 ----- Inputs & Route from: -----
-plastorex
+Na'Guul
 
 ----- Bruteforced by: ----- 
-egirlTM
+Na'Guul

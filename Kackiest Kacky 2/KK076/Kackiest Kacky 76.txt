@@ -1,0 +1,17 @@
+0-1350 press up
+1320-2470 press down
+2580-5120 press up
+3320-5120 press down
+3470 steer 2128
+3510 steer -1320
+3530 steer -2600
+3540 steer -13189
+3550 steer -5800
+3560 steer -13564
+3570 steer -19312
+3580 steer -31908
+3590 steer -33890
+3600 steer -49393
+3610 steer -52948
+3620 steer -61766
+3630 steer -56803

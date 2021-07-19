@@ -1,0 +1,8 @@
+----- Possible optimizations: -----
+- Might be possible to get a faster drop and end
+
+----- Inputs & Route from: -----
+Na'Guul
+
+----- Bruteforced by: ----- 
+Na'Guul

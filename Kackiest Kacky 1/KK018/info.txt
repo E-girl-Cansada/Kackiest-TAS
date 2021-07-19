@@ -1,0 +1,9 @@
+----- Possible optimizations: -----
+- Better speed slide (you can prob get it from the ramm on the booster downhill)
+- No release in the pipe maze
+
+----- Inputs & Route from: -----
+Na'Guul
+
+----- Bruteforced by: ----- 
+Na'Guul

@@ -1,0 +1,8 @@
+----- Possible optimizations: -----
+- Speed drift on the boosters ?
+
+----- Inputs & Route from: -----
+Na'Guul
+
+----- Bruteforced by: ----- 
+Na'Guul

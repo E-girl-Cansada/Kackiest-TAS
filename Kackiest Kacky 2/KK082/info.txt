@@ -1,0 +1,8 @@
+----- Possible optimizations: -----
+It looks like the clip at the end is not slowing me down, but maybe it is ?
+
+----- Inputs & Route from: -----
+Na'Guul
+
+----- Bruteforced by: ----- 
+Na'Guul

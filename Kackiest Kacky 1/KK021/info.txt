@@ -1,0 +1,10 @@
+----- Possible optimizations: -----
+- Direct jump to grey plateform
+- Earlier Neo
+- Bug fin
+
+----- Inputs & Route from: -----
+Na'Guul
+
+----- Bruteforced by: ----- 
+Na'Guul

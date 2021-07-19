@@ -1,8 +1,7 @@
 ----- Possible optimizations: -----
-- No idea
 
 ----- Inputs & Route from: -----
-Matt-LOL
+Na'Guul
 
 ----- Bruteforced by: ----- 
-egirlTM
+Na'Guul

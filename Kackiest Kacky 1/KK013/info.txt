@@ -1,9 +1,8 @@
 ----- Possible optimizations: -----
-- Bump into bugfin
+- Faster bug
 
 ----- Inputs & Route from: -----
-SkandeaR (first jump)
-EgirlTM (ending)
+Na'Guul
 
 ----- Bruteforced by: ----- 
-EgirlTM
+Na'Guul
