@@ -1,0 +1,12 @@
+----- Possible optimizations: -----
+- Better dropdown at start
+- Better wiggles
+- Faster drag
+- Second drag
+
+
+----- Inputs & Route from: -----
+gargi
+
+----- Bruteforced by: ----- 
+DELETE_CLUB
