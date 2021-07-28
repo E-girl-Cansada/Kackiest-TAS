@@ -1,0 +1,8 @@
+----- Possible optimizations: -----
+- Faster start trick
+
+----- Inputs & Route from: -----
+rellhoq
+
+----- Bruteforced by: ----- 
+DELETE_CLUB
