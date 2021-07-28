@@ -1,0 +1,8 @@
+----- Possible optimizations: -----
+- Do it from scratch instead of BFing WR
+
+----- Inputs & Route from: -----
+Migi
+
+----- Bruteforced by: ----- 
+DELETE_CLUB

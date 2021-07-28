@@ -1,0 +1,8 @@
+----- Possible optimizations: -----
+- faster start turn
+
+----- Inputs & Route from: -----
+Drarker
+
+----- Bruteforced by: ----- 
+DELETE_CLUB

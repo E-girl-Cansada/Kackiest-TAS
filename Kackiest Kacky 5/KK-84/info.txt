@@ -1,0 +1,8 @@
+----- Possible optimizations: -----
+- faster topfin
+
+----- Inputs & Route from: -----
+Hefest start
+
+----- Bruteforced by: ----- 
+DELETE_CLUB
