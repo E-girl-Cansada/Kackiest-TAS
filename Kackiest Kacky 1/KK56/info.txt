@@ -1,0 +1,8 @@
+----- Possible optimizations: -----
+- Less banging
+
+----- Inputs & Route from: -----
+DELETE_CLUB
+
+----- Bruteforced by: ----- 
+DELETE_CLUB
