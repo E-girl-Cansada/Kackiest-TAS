@@ -1,0 +1,8 @@
+----- Possible optimizations: -----
+- bugfin? though the bugfin only got .45
+
+----- Inputs & Route from: -----
+mc
+
+----- Bruteforced by: ----- 
+DELETE_CLUB

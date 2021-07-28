@@ -1,0 +1,9 @@
+----- Possible optimizations: -----
+- faster end
+- faster ring
+
+----- Inputs & Route from: -----
+Clonee
+
+----- Bruteforced by: ----- 
+DELETE_CLUB

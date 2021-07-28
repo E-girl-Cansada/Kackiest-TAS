@@ -1,0 +1,8 @@
+----- Possible optimizations: -----
+- Unknown
+
+----- Inputs & Route from: -----
+Clonee
+
+----- Bruteforced by: ----- 
+DELETE_CLUB

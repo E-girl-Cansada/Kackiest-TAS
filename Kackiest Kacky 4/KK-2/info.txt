@@ -1,0 +1,8 @@
+----- Possible optimizations: -----
+- Lower jump?
+
+----- Inputs & Route from: -----
+johalls
+
+----- Bruteforced by: ----- 
+DELETE_CLUB
