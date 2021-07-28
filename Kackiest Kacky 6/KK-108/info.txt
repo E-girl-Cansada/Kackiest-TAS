@@ -1,0 +1,8 @@
+----- Possible optimizations: -----
+- faster dropdown
+
+----- Inputs & Route from: -----
+Dvorky
+
+----- Bruteforced by: ----- 
+DELETE_CLUB
